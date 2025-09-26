@@ -1,0 +1,27 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+
+# Disallow non-essential paths to optimize crawl budget
+Disallow: /login
+Disallow: /signup
+Disallow: /reset-password
+Disallow: /settings
+Disallow: /api/
+Disallow: /static/js/
+Disallow: /*.json$
+
+# Sitemap location
+Sitemap: https://rectifylearn.tech/sitemap.xml
+
+# Crawl-delay suggestion for better server performance
+Crawl-delay: 1
+
+# Additional directives for specific crawlers
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0.5
+
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0.5

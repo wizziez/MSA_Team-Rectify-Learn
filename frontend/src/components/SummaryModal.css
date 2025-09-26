@@ -1,0 +1,27 @@
+/* Summary Modal CSS overrides to ensure it appears above everything */
+.summary-modal-overlay {
+  position: fixed !important;
+  top: 0 !important;
+  left: 0 !important;
+  right: 0 !important;
+  bottom: 0 !important;
+  z-index: 999999 !important;
+  background-color: rgba(0, 0, 0, 0.8) !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: center !important;
+}
+
+/* Prevent any container from clipping the modal */
+body.modal-open {
+  overflow: hidden !important;
+}
+
+/* Ensure modal content is visible */
+.summary-modal-content {
+  position: relative !important;
+  z-index: 1000000 !important;
+  max-width: 700px !important;
+  width: 90% !important;
+  max-height: 90vh !important;
+}

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+        http://www.google.com/schemas/sitemap-image/1.1
+        http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://rectifylearn.tech/</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://rectifylearn.tech/logo512.png</image:loc>
+      <image:title>Rectify Learn Logo</image:title>
+    </image:image>
+  </url>
+
+  <!-- Core Pages -->
+  <url>
+    <loc>https://rectifylearn.tech/about</loc>
+    <lastmod>2023-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rectifylearn.tech/login</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rectifylearn.tech/signup</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rectifylearn.tech/contact</loc>
+    <lastmod>2023-08-05</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Feature Pages -->
+  <url>
+    <loc>https://rectifylearn.tech/features</loc>
+    <lastmod>2023-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://rectifylearn.tech/features/quiz-generation</loc>
+    <lastmod>2023-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rectifylearn.tech/features/flashcards</loc>
+    <lastmod>2023-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rectifylearn.tech/features/active-recall</loc>
+    <lastmod>2023-08-12</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- User Dashboard Pages (Lower priority since they require login) -->
+  <url>
+    <loc>https://rectifylearn.tech/dashboard</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://rectifylearn.tech/upload</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rectifylearn.tech/quiz-history</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rectifylearn.tech/profile</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://rectifylearn.tech/settings</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <!-- Resources & Additional Content -->
+  <url>
+    <loc>https://rectifylearn.tech/blog</loc>
+    <lastmod>2023-08-15</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rectifylearn.tech/pricing</loc>
+    <lastmod>2023-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://rectifylearn.tech/faq</loc>
+    <lastmod>2023-08-10</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <!-- Legal Pages -->
+  <url>
+    <loc>https://rectifylearn.tech/privacy-policy</loc>
+    <lastmod>2023-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+  <url>
+    <loc>https://rectifylearn.tech/terms-of-service</loc>
+    <lastmod>2023-07-25</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.4</priority>
+  </url>
+</urlset>
+</urlset>
