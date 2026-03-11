@@ -112,4 +112,4 @@ This project is part of the MSA Team Rectify Learn initiative and follows applic
 
 ## Contact
 
-For questions or support regarding this educational platform, please contact the development team through the appropriate channels.
+For questions or support regarding this educational platform, please contact via my mail.
